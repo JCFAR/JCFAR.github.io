@@ -1,0 +1,75 @@
+.bg-fondo {
+  background-color: #28a745;
+}
+
+.precio {
+  text-align: right;
+  background-color: #ffffff;
+}
+
+.large-text-color {
+  color: #28a745;
+  font-size: 20pt;
+}
+
+.small-text-color {
+  color: #707070;
+  font-size: 16pt;
+  font-family: "Roboto", sans-serif;
+}
+
+.roboto-light {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  color: black;
+  font-size: 20pt;
+}
+
+.tx-body-secondary {
+  font-size: 16pt;
+  color: #707070;
+}
+
+.text-body-3 {
+  font-size: 13pt;
+  color: #707070;
+}
+
+.aliniar {
+  justify-content: flex-end;
+}
+
+.navbar-brand img {
+  height: 25pt;
+  width: 86pt;
+}
+
+.formulario {
+  background-color: #28a745;
+  align-content: center;
+}
+.prueba {
+  margin: 25pt;
+}
+
+.boton {
+  color: black;
+  background-color: #f8f9fa;
+  border-color: #dddddd;
+  border-width: 1pt;
+}
+
+.texto {
+  font-size: 16pt;
+}
+
+.pie {
+  text-align: center;
+  font-family: roboto, light;
+  font-size: 16pt;
+}
+
+.pie img {
+  height: 24pt;
+}
